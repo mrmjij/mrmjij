@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mrmjij
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...by website 
+- 👋 Hi, I’m MD MAHBUBUR RAHMAN MOIN.
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning ...Web Development
+- 💞️ I’m looking to collaborate on...
+📫: How to reach me ...by website 
 https://mrmjij.blogspot.com
 
 <!---
